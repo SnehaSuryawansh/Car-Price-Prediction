@@ -21,5 +21,3 @@ This project forecasts about various used cars including details about the car m
 # Key Findings
 The XGBoost (XG) model performs the best, followed closely by Gradient Boosting (GBR) and Random Forest (RF). Linear Regression (LR) has the lowest R² score, making it less suitable for this dataset compared to the other models.
 
-# Dataset License
-This dataset is provided for educational and research purposes. It should not be used for commercial purposes without permission.
